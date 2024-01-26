@@ -11,7 +11,7 @@ import SwiftUI
 struct JapaneseRestaurantApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MenuView()
         }
     }
 }
